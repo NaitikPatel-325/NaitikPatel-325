@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@NaitikPatel-325/Portfolio-Website](https://replit.com/@NaitikPatel-325/Portfolio-Website)
 
-- 💬 Ask me about **C,C++ AND js**
+- 💬 Ask me about **C,C++,js**
 
 - 📫 How to reach me **np03022005@gmail.com**
 
