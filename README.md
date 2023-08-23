@@ -10,8 +10,8 @@
 - 📫 How to reach me **np03022005@gmail.com**
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=#5865F2)](https://discord.com/#0102)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/naitik-patel-114511250/)
+[![Discord](https://img.shields.io/badge/discord-36393e?style=for-the-badge&logo=discord&logoColor=#5865F2)](https://discord.com/#0102)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/naitik-patel-114511250/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](np03022005@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/naitik_0302/)
 
