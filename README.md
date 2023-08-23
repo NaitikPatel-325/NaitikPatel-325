@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Naitik Patel</h1>
 <h3 align="center">A passionate Web Dev Enthusiast | Building Digital Experiences</h3>
-<img align="right" alt="coder" width="400" src="https://tenor.com/view/coding-gif-24090007">
+<img align="right" alt="coder" width="400" src="https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naitikpatel-325&label=Profile%20views&color=0e75b6&style=flat" alt="naitikpatel-325" /> </p>
 
 - 🌱 I’m currently learning **MERN STACK**
