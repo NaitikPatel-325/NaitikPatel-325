@@ -22,7 +22,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforgeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=#2F8D46)](https://auth.geeksforgeeks.org/user/np0302rmcv)
 
 ## Languages and Tools:
-[![C](https://img.shields.io/badge/c-283593?style=for-the-badge&logo=c&logoColor=#A8B9CC)]
+![C](https://img.shields.io/badge/c-283593?style=for-the-badge&logo=c&logoColor=#A8B9CC)
 [![C++](https://img.shields.io/badge/c++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=#00599C)]
 [![Html](https://img.shields.io/badge/html5-283593?style=for-the-badge&logo=html5&logoColor=#E34F26)]
 [![Css](https://img.shields.io/badge/css3-3498db?style=for-the-badge&logo=css3&logoColor=#1572B6)]
