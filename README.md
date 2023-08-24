@@ -8,9 +8,7 @@
 
 - 📫 How to reach me **np03022005@gmail.com**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=naitikpatel-325&label=Profile%20views&color=0e75b6&style=flat" alt="naitikpatel-325" width="150" />
-</p>
+
 
 
 ## 🌐 Socials:
