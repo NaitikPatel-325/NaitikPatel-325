@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website.naitikpatel-325.repl.co/);
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-website.naitikpatel-325.repl.co/)
 
 - 💬 Ask me about **c,c++,js**
 
