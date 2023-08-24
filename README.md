@@ -23,15 +23,15 @@
 
 ## Languages and Tools:
 ![C](https://img.shields.io/badge/c-283593?style=for-the-badge&logo=c&logoColor=#A8B9CC)
-[![C++](https://img.shields.io/badge/c++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=#00599C)]
-[![Html](https://img.shields.io/badge/html5-283593?style=for-the-badge&logo=html5&logoColor=#E34F26)]
-[![Css](https://img.shields.io/badge/css3-3498db?style=for-the-badge&logo=css3&logoColor=#1572B6)]
-[![TailwindCss](https://img.shields.io/badge/tailwindcss-008080?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)]
-[![Js](https://img.shields.io/badge/Js-F0DB4F?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)]
-[![Canva](https://img.shields.io/badge/Canvas-283593?style=for-the-badge&logo=canva&logoColor=#00C4CC)]
-[![Bootstrap](https://img.shields.io/badge/bootstrap-D3D3D3?style=for-the-badge&logo=canva&logoColor=#7952B3)]
-[![Php](https://img.shields.io/badge/Php-00BCD4?style=for-the-badge&logo=php&logoColor=#777BB4)]
-[![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=MySQL&logoColor=#4479A1)]
+![C++](https://img.shields.io/badge/c++-5E97D0?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
+![Html](https://img.shields.io/badge/html5-283593?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![Css](https://img.shields.io/badge/css3-3498db?style=for-the-badge&logo=css3&logoColor=#1572B6)
+![TailwindCss](https://img.shields.io/badge/tailwindcss-008080?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4)
+![Js](https://img.shields.io/badge/Js-F0DB4F?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
+![Canva](https://img.shields.io/badge/Canvas-283593?style=for-the-badge&logo=canva&logoColor=#00C4CC)
+![Bootstrap](https://img.shields.io/badge/bootstrap-D3D3D3?style=for-the-badge&logo=canva&logoColor=#7952B3)
+![Php](https://img.shields.io/badge/Php-00BCD4?style=for-the-badge&logo=php&logoColor=#777BB4)
+![MySQL](https://img.shields.io/badge/MySQL-ADD8E6?style=for-the-badge&logo=MySQL&logoColor=#4479A1)
 
 <p><img align="left"  style="background-color: black;" src="https://github-readme-stats.vercel.app/api/top-langs?username=naitikpatel-325&show_icons=true&locale=en&layout=compact" alt="naitikpatel-325" /></p>
 
